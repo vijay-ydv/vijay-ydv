@@ -1,7 +1,7 @@
 ## Hi, I'm Vijay ✨
 
 🧠 Computer Science Graduate 2k25 <br/>
-🏛️ Minor In AI @IIT Ropar <br/>
+🏛️ Minor In AI @Indian Institute of Technology, Ropar <br/>
 💡 Skilled in Java, Data Analysis <br/>
 🌍 Exploring Network Security, Cloud & Web Technologies. <br/>
 🌐https://www.linkedin.com/in/vijay-ydv
