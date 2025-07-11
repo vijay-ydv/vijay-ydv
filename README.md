@@ -2,7 +2,7 @@
 
 🧠 Computer Science Graduate 2k25 <br/>
 🏛️ Minor In AI @Indian Institute of Technology, Ropar <br/>
-💡 Skilled in Java, Data Analysis <br/>
+💡 Skilled in Java, Python, Prompt Engineering, Data Analysis <br/>
 🌍 Exploring Network Security, Cloud & Web Technologies. <br/>
 🌐https://www.linkedin.com/in/vijay-ydv
 
