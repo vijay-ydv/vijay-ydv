@@ -1,6 +1,6 @@
 ## Hi, I'm Vijay ✨
 
-📋 Oracle certified DevOps Professional
+📋 Oracle certified DevOps Professional <br/>
 🧠 Computer Science Graduate 2k25 <br/>
 🏛️ Major In AI @Indian Institute of Technology, Ropar <br/>
 💡 Skilled in Java, Python, Prompt Engineering, Data Analysis etc <br/>
